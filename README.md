@@ -8,7 +8,7 @@ This project explores the use of machine learning to analyze and forecast the cr
 📉 Volatility & Market Dynamics – Uncover patterns in price volatility and market capitalization shifts.
 📅 Daily Data – Track price changes on a day-to-day basis for accurate, time-sensitive analysis.
 
-## 📂 Dataset – 
+# 📂 Dataset – 
 Data sourced from Coin Market Cap, formatted as a CSV for easy loading and manipulation. Each record includes:
 open: Opening price
 high: Highest price of the day
