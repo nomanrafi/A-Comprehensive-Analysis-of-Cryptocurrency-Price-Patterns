@@ -1,4 +1,4 @@
-# A-Comprehensive-Analysis-of-Cryptocurrency-Price-Patterns: Forecasting and Insights from Historical OHLC Data.vvv
+# A-Comprehensive-Analysis-of-Cryptocurrency-Price-Patterns: Forecasting and Insights from Historical OHLC Data.vvvv
 
 ## 📈 Cryptocurrency Market Analysis and Prediction 📉
 This project explores the use of machine learning to analyze and forecast the cryptocurrency market with a rich historical OHLC (Open High Low Close) dataset. Using data from 2013 to 2022 for over 50 cryptocurrencies, this analysis includes:
