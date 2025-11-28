@@ -389,6 +389,24 @@ Connect GitHub → auto-deploys on push
 
 ---
 
+---
+
+## 👥 Authors & Credits
+
+### Project Development
+- **Repository Owner**: [Abdullah Al Noman](https://github.com/nomanrafi)
+- **Project Name**: Cryptocurrency Price Prediction System
+- **Developed**: 2025
+- **Built with** ❤️ using Python & Machine Learning
+
+### Technologies Used
+- **Backend**: Python 3.12, Flask, XGBoost, LightGBM, Scikit-learn
+- **Frontend**: HTML5, CSS3, JavaScript, Chart.js
+- **Data Source**: Yahoo Finance API (yfinance)
+- **Deployment**: Gunicorn, Heroku/Render.com ready
+
+---
+
 ## 📄 License
 
 MIT License - Free for educational and research use
