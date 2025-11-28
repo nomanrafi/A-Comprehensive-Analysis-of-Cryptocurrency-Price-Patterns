@@ -6,7 +6,7 @@
 ![Indicators](https://img.shields.io/badge/Indicators-20%2B%20Technical-orange?style=flat-square)
 ![Homepage](https://github.com/nomanrafi/A-Comprehensive-Analysis-of-Cryptocurrency-Price-Patterns/blob/main/homepage.png)
 ![Result](https://github.com/nomanrafi/A-Comprehensive-Analysis-of-Cryptocurrency-Price-Patterns/blob/main/result-1.png)
-![Result]https://github.com/nomanrafi/A-Comprehensive-Analysis-of-Cryptocurrency-Price-Patterns/blob/main/result-2.png)
+![Result](https://github.com/nomanrafi/A-Comprehensive-Analysis-of-Cryptocurrency-Price-Patterns/blob/main/result-2.png)
 
 ## 🎯 Project Overview
 
