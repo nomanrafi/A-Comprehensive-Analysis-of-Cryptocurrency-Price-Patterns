@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>500 - Internal Server Error</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .error-container {
+            text-align: center;
+            background: rgba(0, 0, 0, 0.3);
+            border: 2px solid #ff0000;
+            border-radius: 15px;
+            padding: 50px 40px;
+            max-width: 600px;
+            backdrop-filter: blur(10px);
+        }
+        
+        h1 {
+            font-size: 120px;
+            margin: 0;
+            background: linear-gradient(135deg, #ff0000, #ff6666);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        h2 {
+            font-size: 36px;
+            color: #ff6666;
+            margin: 20px 0;
+        }
+        
+        p {
+            font-size: 18px;
+            color: #aaa;
+            line-height: 1.6;
+            margin: 20px 0;
+        }
+        
+        button {
+            padding: 12px 30px;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 8px;
+            background: linear-gradient(135deg, #00d4ff, #0099cc);
+            color: #000;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-top: 20px;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(0, 212, 255, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <h1>500</h1>
+        <h2>Internal Server Error</h2>
+        <p>Something went wrong on our end. Our team has been notified and is working on a fix.</p>
+        <button onclick="window.location.href='/'">← Back to Home</button>
+    </div>
+</body>
+</html>
