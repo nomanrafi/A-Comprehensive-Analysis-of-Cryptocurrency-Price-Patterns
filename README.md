@@ -399,12 +399,6 @@ Connect GitHub → auto-deploys on push
 - **Developed**: 2025
 - **Built with** ❤️ using Python & Machine Learning
 
-### Technologies Used
-- **Backend**: Python 3.12, Flask, XGBoost, LightGBM, Scikit-learn
-- **Frontend**: HTML5, CSS3, JavaScript, Chart.js
-- **Data Source**: Yahoo Finance API (yfinance)
-- **Deployment**: Gunicorn, Heroku/Render.com ready
-
 ---
 
 ## 📄 License
